@@ -1,0 +1,374 @@
+[
+  {
+    "ID": "5.1",
+    "description": "Policies for Information Security"
+  },
+  {
+    "ID": "5.2",
+    "description": "Information Security Roles and Responsibilities"
+  },
+  {
+    "ID": "5.3",
+    "description": "Segregation of Duties"
+  },
+  {
+    "ID": "5.4",
+    "description": "Management Responsibilities"
+  },
+  {
+    "ID": "5.5",
+    "description": "Contact With Authorities"
+  },
+  {
+    "ID": "5.6",
+    "description": "Contact With Special Interest Groups"
+  },
+  {
+    "ID": "5.7",
+    "description": "Threat Intelligence"
+  },
+  {
+    "ID": "5.8",
+    "description": "Information Security in Project Management"
+  },
+  {
+    "ID": "5.9",
+    "description": "Inventory of Information and Other Associated Assets"
+  },
+  {
+    "ID": "5.10",
+    "description": "Acceptable Use of Information and Other Associated Assets"
+  },
+  {
+    "ID": "5.11",
+    "description": "Return of Assets"
+  },
+  {
+    "ID": "5.12",
+    "description": "Classification of Information"
+  },
+  {
+    "ID": "5.13",
+    "description": "Labelling of Information"
+  },
+  {
+    "ID": "5.14",
+    "description": "Information Transfer"
+  },
+  {
+    "ID": "5.15",
+    "description": "Access Control"
+  },
+  {
+    "ID": "5.16",
+    "description": "Identity Management"
+  },
+  {
+    "ID": "5.17",
+    "description": "Authentication Information"
+  },
+  {
+    "ID": "5.18",
+    "description": "Access Rights"
+  },
+  {
+    "ID": "5.19",
+    "description": "Information Security in Supplier Relationships"
+  },
+  {
+    "ID": "5.20",
+    "description": "Addressing Information Security Within Supplier Agreements"
+  },
+  {
+    "ID": "5.21",
+    "description": "Managing Information Security in the ICT Supply Chain"
+  },
+  {
+    "ID": "5.22",
+    "description": "Monitoring, Review and Change Management of Supplier Services"
+  },
+  {
+    "ID": "5.23",
+    "description": "Information Security for Use of Cloud Services"
+  },
+  {
+    "ID": "5.24",
+    "description": "Information Security Incident Management Planning and Preparation"
+  },
+  {
+    "ID": "5.25",
+    "description": "Assessment and Decision on Information Security Events"
+  },
+  {
+    "ID": "5.26",
+    "description": "Response to Information Security Incidents"
+  },
+  {
+    "ID": "5.27",
+    "description": "Learning From Information Security Incidents"
+  },
+  {
+    "ID": "5.28",
+    "description": "Collection of Evidence"
+  },
+  {
+    "ID": "5.29",
+    "description": "Information Security During Disruption"
+  },
+  {
+    "ID": "5.30",
+    "description": "ICT Readiness for Business Continuity"
+  },
+  {
+    "ID": "5.31",
+    "description": "Legal, Statutory, Regulatory and Contractual Requirements"
+  },
+  {
+    "ID": "5.32",
+    "description": "Intellectual Property Rights"
+  },
+  {
+    "ID": "5.33",
+    "description": "Protection of Records"
+  },
+  {
+    "ID": "5.34",
+    "description": "Privacy and Protection of PII"
+  },
+  {
+    "ID": "5.35",
+    "description": "Independent Review of Information Security"
+  },
+  {
+    "ID": "5.36",
+    "description": "Compliance With Policies, Rules and Standards for Information Security"
+  },
+  {
+    "ID": "5.37",
+    "description": "Documented Operating Procedures"
+  },
+  {
+    "ID": "6.1",
+    "description": "Screening"
+  },
+  {
+    "ID": "6.2",
+    "description": "Terms and Conditions of Employment"
+  },
+  {
+    "ID": "6.3",
+    "description": "Information Security Awareness, Education and Training"
+  },
+  {
+    "ID": "6.4",
+    "description": "Disciplinary Process"
+  },
+  {
+    "ID": "6.5",
+    "description": "Responsibilities After Termination or Change of Employment"
+  },
+  {
+    "ID": "6.6",
+    "description": "Confidentiality or Non-Disclosure Agreements"
+  },
+  {
+    "ID": "6.7",
+    "description": "Remote Working"
+  },
+  {
+    "ID": "6.8",
+    "description": "Information Security Event Reporting"
+  },
+  {
+    "ID": "7.1",
+    "description": "Physical Security Perimeters"
+  },
+  {
+    "ID": "7.2",
+    "description": "Physical Entry"
+  },
+  {
+    "ID": "7.3",
+    "description": "Securing Offices, Rooms and Facilities"
+  },
+  {
+    "ID": "7.4",
+    "description": "Physical Security Monitoring"
+  },
+  {
+    "ID": "7.5",
+    "description": "Protecting Against Physical and Environmental Threats"
+  },
+  {
+    "ID": "7.6",
+    "description": "Working In Secure Areas"
+  },
+  {
+    "ID": "7.7",
+    "description": "Clear Desk and Clear Screen"
+  },
+  {
+    "ID": "7.8",
+    "description": "Equipment Siting and Protection"
+  },
+  {
+    "ID": "7.9",
+    "description": "Security of Assets Off-Premises"
+  },
+  {
+    "ID": "7.10",
+    "description": "Storage Media"
+  },
+  {
+    "ID": "7.11",
+    "description": "Supporting Utilities"
+  },
+  {
+    "ID": "7.12",
+    "description": "Cabling Security"
+  },
+  {
+    "ID": "7.13",
+    "description": "Equipment Maintenance"
+  },
+  {
+    "ID": "7.14",
+    "description": "Secure Disposal or Re-Use of Equipment"
+  },
+  {
+    "ID": "8.1",
+    "description": "User Endpoint Devices"
+  },
+  {
+    "ID": "8.2",
+    "description": "Privileged Access Rights"
+  },
+  {
+    "ID": "8.3",
+    "description": "Information Access Restriction"
+  },
+  {
+    "ID": "8.4",
+    "description": "Access to Source Code"
+  },
+  {
+    "ID": "8.5",
+    "description": "Secure Authentication"
+  },
+  {
+    "ID": "8.6",
+    "description": "Capacity Management"
+  },
+  {
+    "ID": "8.7",
+    "description": "Protection Against Malware"
+  },
+  {
+    "ID": "8.8",
+    "description": "Management of Technical Vulnerabilities"
+  },
+  {
+    "ID": "8.9",
+    "description": "Configuration Management"
+  },
+  {
+    "ID": "8.10",
+    "description": "Information Deletion"
+  },
+  {
+    "ID": "8.11",
+    "description": "Data Masking"
+  },
+  {
+    "ID": "8.12",
+    "description": "Data Leakage Prevention"
+  },
+  {
+    "ID": "8.13",
+    "description": "Information Backup"
+  },
+  {
+    "ID": "8.14",
+    "description": "Redundancy of Information Processing Facilities"
+  },
+  {
+    "ID": "8.15",
+    "description": "Logging"
+  },
+  {
+    "ID": "8.16",
+    "description": "Monitoring Activities"
+  },
+  {
+    "ID": "8.17",
+    "description": "Clock Synchronization"
+  },
+  {
+    "ID": "8.18",
+    "description": "Use of Privileged Utility Programs"
+  },
+  {
+    "ID": "8.19",
+    "description": "Installation of Software on Operational Systems"
+  },
+  {
+    "ID": "8.20",
+    "description": "Networks Security"
+  },
+  {
+    "ID": "8.21",
+    "description": "Security of Network Services"
+  },
+  {
+    "ID": "8.22",
+    "description": "Segregation of Networks"
+  },
+  {
+    "ID": "8.23",
+    "description": "Web filtering"
+  },
+  {
+    "ID": "8.24",
+    "description": "Use of Cryptography"
+  },
+  {
+    "ID": "8.25",
+    "description": "Secure Development Life Cycle"
+  },
+  {
+    "ID": "8.26",
+    "description": "Application Security Requirements"
+  },
+  {
+    "ID": "8.27",
+    "description": "Secure System Architecture and Engineering Principles"
+  },
+  {
+    "ID": "8.28",
+    "description": "Secure Coding"
+  },
+  {
+    "ID": "8.29",
+    "description": "Security Testing in Development and Acceptance"
+  },
+  {
+    "ID": "8.30",
+    "description": "Outsourced Development"
+  },
+  {
+    "ID": "8.31",
+    "description": "Separation of Development, Test and Production Environments"
+  },
+  {
+    "ID": "8.32",
+    "description": "Change Management"
+  },
+  {
+    "ID": "8.33",
+    "description": "Test Information"
+  },
+  {
+    "ID": "8.34",
+    "description": "Protection of Information Systems During Audit Testing"
+  }
+]
